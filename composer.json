@@ -15,7 +15,7 @@
         "ext-json": "*",
         "psr/event-dispatcher": "^1.0",
         "setono/tag-bag-bundle": "^1.1",
-        "setono/tag-bag-gtag": "^1.4.1",
+        "setono/tag-bag-gtag": "*",
         "setono/tag-bag-twig": "^1.1",
         "sylius/sylius": "^1.3",
         "thecodingmachine/safe": "*",
